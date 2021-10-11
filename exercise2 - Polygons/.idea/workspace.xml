@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40300980-dc48-47da-9a1b-145b03a75489" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise2 - Polygons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Geometries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Parallelogram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Polygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/RegularPolygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/ux/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polygons/Geometries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polygons/Parallelogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polygons/Polygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polygons/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polygons/RegularPolygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polygons/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ux/main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yto74QXpO1vhYUsFp0Qal0zrDa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="PrimoEsempio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esempiVecchi.PrimoEsempio" />
+      <module name="exercise2 - Polygons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="esempiVecchi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondoEsempio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondoEsempio" />
+      <module name="exercise2 - Polygons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ux.main" />
+      <module name="exercise2 - Polygons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ux.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.SecondoEsempio" />
+        <item itemvalue="Application.PrimoEsempio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40300980-dc48-47da-9a1b-145b03a75489" name="Changes" comment="" />
+      <created>1633080075912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633080075912</updated>
+      <workItem from="1633080077561" duration="5980000" />
+      <workItem from="1633088783268" duration="1596000" />
+      <workItem from="1633096975371" duration="801000" />
+      <workItem from="1633251309489" duration="3469000" />
+      <workItem from="1633689180649" duration="35000" />
+      <workItem from="1633689262179" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
