@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40300980-dc48-47da-9a1b-145b03a75489" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2 - Polygons.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Geometries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Parallelogram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Polygon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/RegularPolygon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/polygons/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2 - Polygons/ux/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polygons/Geometries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polygons/Parallelogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polygons/Polygon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polygons/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polygons/RegularPolygon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polygons/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ux/main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="40300980-dc48-47da-9a1b-145b03a75489" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +96,7 @@
       <workItem from="1633251309489" duration="3469000" />
       <workItem from="1633689180649" duration="35000" />
       <workItem from="1633689262179" duration="30000" />
+      <workItem from="1634671690993" duration="5000" />
     </task>
     <servers />
   </component>
